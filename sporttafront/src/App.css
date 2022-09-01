@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.button {
+  padding: 12px;
+  border-radius: 15%;
+  background: rgb(140, 163, 103);
+}
+
+.container {
+  margin-top: 20%;
+}
